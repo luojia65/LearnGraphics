@@ -350,6 +350,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "learn-vulkano"
+version = "0.0.0"
+
+[[package]]
 name = "libc"
 version = "0.2.43"
 source = "registry+https://github.com/rust-lang/crates.io-index"

@@ -1,4 +1,5 @@
 [workspace]
 members = [
-    "src/rust-glium"
+    "src/rust-glium",
+    "src/rust-vulkano",
 ]
